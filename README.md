@@ -13,4 +13,4 @@ client.on('start', function () {
 ```
 
 ## Read the full docs.
-Get the full taste of the entire API in the docs folder.
+Get the full taste of the entire API in by checking out the documentation at [`/docs/CONTENTS.md`](/docs/CONTENTS.md).
